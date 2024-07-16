@@ -1,0 +1,6 @@
+- 👋 Olá, sou @gb-eli
+- 👨🏽‍🎓 Licenciado em Pedagogia 
+- 📚 Cursando Análise e desenvolvimento de sistemas
+- 👨🏽‍🏫 Professor de Informática
+- 💼 SEED-PR
+- ♥️ Aprender e Ensinar
