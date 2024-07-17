@@ -1,6 +1,5 @@
 ##
 - 👨🏽‍🏫 Professor de Curso Técnico
-- 💼 Col. Estadual "José Bonifácio"
 ##
 - 👨🏽‍🎓 Licenciado em Pedagogia
 - 📚 Cursando Análise e desenvolvimento de sistemas
