@@ -1,14 +1,15 @@
 ##
-<p align="left">Olá Mundo!!</p>
+<p align="left">Olá, sou o Gabriel!!</p>
 
 ##
 Ocupação
-- 👨🏽‍🏫 Professor de ensino médio com Curso Técnico 
+- 👨🏽‍🏫 Professor na SEED-PR
 
 ##
 Formação
 - 👨🏽‍🎓 Licenciado em Pedagogia
 - 📚 Pós-graduando em Tecnologias digitais e inovação na educação
+-  📚 Pós-graduando em Governança e Gestão da tecnologia da informação
 - 📚 Cursando Análise e desenvolvimento de sistemas
   
 ##
