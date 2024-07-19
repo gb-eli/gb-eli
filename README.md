@@ -1,5 +1,5 @@
 ##
-<p align="left">Olá, sou o Gabriel!!</p>
+<p align="left">Olá, sou o Gabriel.</p>
 
 ##
 Ocupação
