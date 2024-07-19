@@ -2,6 +2,7 @@
 - 👨🏽‍🏫 Professor de Curso Técnico
 ##
 - 👨🏽‍🎓 Licenciado em Pedagogia
+- 📚 Pós-graduando em Tecnologias digitais e inovação na educação
 - 📚 Cursando Análise e desenvolvimento de sistemas
 ## 
 <div style="display: inline_block"><br>
