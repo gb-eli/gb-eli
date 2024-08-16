@@ -10,6 +10,7 @@ Formação
 - 👨🏽‍🎓 Licenciado em Pedagogia
 - 📚 Pós-graduando em Tecnologias digitais e inovação na educação
 -  📚 Pós-graduando em Governança e Gestão da tecnologia da informação
+-    📚 Pós-graduando em Docência em Sistemas de informações
 - 📚 Cursando Análise e desenvolvimento de sistemas
   
 ##
