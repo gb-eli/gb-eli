@@ -7,11 +7,13 @@ Ocupação
 
 ##
 Formação
-- 👨🏽‍🎓 Licenciado em Pedagogia
-- 📚 Pós-graduando em Tecnologias digitais e inovação na educação
--  📚 Pós-graduando em Governança e Gestão da tecnologia da informação
--    📚 Pós-graduando em Docência em Sistemas de informações
-- 📚 Cursando Análise e desenvolvimento de sistemas
+👨🏽‍🏫 Professor
+👨🏽‍🎓 Licenciado em Pedagogia
+👨🏽‍🎓 Pós-graduado em Gestão de TI
+👨🏽‍🎓 Pós-graduado em Tecnologias Digitais e Inovação na Educação
+👨🏽‍🎓 Pós-graduado em Administração aplicada e Gestão Empresarial
+📚 Pós-graduando em Docência em Sistemas de Informações
+📚 Graduando em Análise e Desenvolvimento de Sistemas
   
 ##
 Linguagens
