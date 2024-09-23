@@ -12,7 +12,7 @@ Formação
 - 👨🏽‍🎓 Pós-graduado em Gestão de TI
 - 👨🏽‍🎓 Pós-graduado em Tecnologias Digitais e Inovação na Educação
 - 👨🏽‍🎓 Pós-graduado em Administração aplicada e Gestão Empresarial
-- 📚 Pós-graduando em Docência em Sistemas de Informações
+- 📚 Pós-graduando em Docência em Sistemas de Informação
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
   
 ##
