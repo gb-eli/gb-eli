@@ -1,50 +1,157 @@
-##
-<p align="left">Olá, sou o Gabriel.</p>
-
-##
-Ocupação
-- 👨🏽‍🏫 Professor na SEED-PR
-
-##
-Formação
-- 👨🏽‍🏫 Professor
-- 👨🏽‍🎓 Licenciado em Pedagogia
-- 👨🏽‍🎓 Pós-graduado em Gestão de TI
-- 👨🏽‍🎓 Pós-graduado em Tecnologias Digitais e Inovação na Educação
-- 👨🏽‍🎓 Pós-graduado em Administração aplicada e Gestão Empresarial
-- 👨🏽‍🎓 Pós-graduado em Docência em Sistemas de Informação
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
-  
-##
-Linguagens
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
-  ##
-  Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gb-eli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gb-eli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+# Gabriel Elienai Alves
+
+### Professor | Pedagogo | Analista e Desenvolvedor de Sistemas
+
+Educação • Tecnologia • Desenvolvimento • Inovação
+
+<br>
+
+<a href="https://www.linkedin.com/in/gabriel-elienai-072811165">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Elienai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/gb_eli">
+  <img src="https://img.shields.io/badge/Instagram-@gb__eli-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://instagram.com/prof.gb_eli">
+  <img src="https://img.shields.io/badge/Instagram-@prof.gb__eli-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:gabriel.elienai.alves@escola.pr.gov.br">
+  <img src="https://img.shields.io/badge/E--mail-SEED--PR-333333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </div>
 
-##
-Rede Sociais
-<div> 
-  <a href="https://instagram.com/gb_eli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/invite/VmfTmNBz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabriel.elienai.alves@escola.pr.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-elienai-072811165" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
-##
+## Sobre mim
 
-Visitas
+Sou professor da Secretaria de Estado da Educação do Paraná — SEED-PR, atuando como professor PSS desde 2024.
+
+Minha trajetória profissional está construída na integração entre educação, tecnologia, gestão e desenvolvimento de sistemas.
+
+Já atuei também em funções de coordenação e atualmente concentro minha atuação na docência, no desenvolvimento de projetos educacionais e no uso da tecnologia como ferramenta para criar experiências de aprendizagem mais práticas, acessíveis e significativas.
+
+Sou um eterno aprendiz. Procuro ser compreensivo, flexível e aberto ao diálogo. Gosto de ajudar as pessoas, compartilhar conhecimento e também aprender com elas.
+
+Acredito que sempre existe espaço para melhorar, aprender algo novo e transformar conhecimento em oportunidades.
+
+---
+
+## Experiência profissional
+
+<table>
+<tr>
+<td width="150"><strong>2024 — Atual</strong></td>
+<td>
+<strong>Professor PSS — SEED-PR</strong><br>
+Secretaria de Estado da Educação do Paraná
+</td>
+</tr>
+
+<tr>
+<td><strong>Atual</strong></td>
+<td>
+<strong>Colégio Estadual Alberto Gomes Veiga</strong><br>
+Atuação docente nas áreas de tecnologia e educação.
+</td>
+</tr>
+
+<tr>
+<td><strong>Anterior</strong></td>
+<td>
+<strong>Colégio Estadual José Bonifácio</strong><br>
+Atuação como professor da rede estadual.
+</td>
+</tr>
+
+<tr>
+<td><strong>Anterior</strong></td>
+<td>
+<strong>Colégio Estadual Dídio Augusto de Camargo Viana</strong><br>
+Atuação como professor da rede estadual.
+</td>
+</tr>
+
+<tr>
+<td><strong>Experiência</strong></td>
+<td>
+<strong>Coordenação</strong><br>
+Experiência em organização, acompanhamento, gestão e trabalho em equipe.
+</td>
+</tr>
+</table>
+
+---
+
+## Formação acadêmica
+
+<table>
+<tr>
+<td><strong>Análise e Desenvolvimento de Sistemas</strong></td>
+<td>Graduação concluída</td>
+</tr>
+
+<tr>
+<td><strong>Pedagogia</strong></td>
+<td>Licenciatura</td>
+</tr>
+
+<tr>
+<td><strong>Gestão de Tecnologia da Informação</strong></td>
+<td>Pós-graduação</td>
+</tr>
+
+<tr>
+<td><strong>Tecnologias Digitais e Inovação na Educação</strong></td>
+<td>Pós-graduação</td>
+</tr>
+
+<tr>
+<td><strong>Administração Aplicada e Gestão Empresarial</strong></td>
+<td>Pós-graduação</td>
+</tr>
+
+<tr>
+<td><strong>Docência em Sistemas de Informação</strong></td>
+<td>Pós-graduação</td>
+</tr>
+</table>
+
+---
+
+## Tecnologias
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gb-eli/count.svg?">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark">
+
 </div>
+
+<br>
+
+| Tecnologia | Nível de experiência |
+|---|---|
+| HTML | `████████████████░░░░` 80% |
+| CSS | `████████████████░░░░` 80% |
+| JavaScript | `██████████████░░░░░░` 70% |
+| Python | `████████████░░░░░░░░` 60% |
+| Git / GitHub | `██████████████░░░░░░` 70% |
+
+> Os indicadores representam experiência prática e familiaridade com cada tecnologia, não certificações formais.
+
+---
+
+## Áreas de atuação e interesse
+
+```text
+Desenvolvimento Web              ████████████████░░░░
+Tecnologia aplicada à Educação   ███████████████████░
+Desenvolvimento de Sistemas      ████████████████░░░░
+Inovação Educacional             ██████████████████░░
+Programação                      ███████████████░░░░░
+Gestão e Projetos                ███████████████░░░░░
