@@ -2,91 +2,134 @@
 
 # Gabriel Elienai Alves
 
-### Professor · Pedagogo · Analista e Desenvolvedor de Sistemas
-
-Educação, tecnologia, desenvolvimento e inovação.
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&height=45&lines=Professor+PSS+%7C+SEED-PR;Pedagogo+%7C+Analista+e+Desenvolvedor+de+Sistemas;Educa%C3%A7%C3%A3o+%7C+Tecnologia+%7C+Desenvolvimento"
+alt="Apresentação profissional"
+/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/gabriel-elienai-072811165" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-elienai-072811165">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Elienai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://instagram.com/gb_eli" target="_blank">
+
+<a href="https://instagram.com/gb_eli">
   <img src="https://img.shields.io/badge/Instagram-@gb__eli-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://instagram.com/prof.gb_eli" target="_blank">
-  <img src="https://img.shields.io/badge/Professor-@prof.gb__eli-833AB4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profissional">
+
+<a href="https://instagram.com/prof.gb_eli">
+  <img src="https://img.shields.io/badge/Instagram-@prof.gb__eli-833AB4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profissional">
 </a>
+
 <a href="mailto:gabriel.elienai.alves@escola.pr.gov.br">
   <img src="https://img.shields.io/badge/E--mail-SEED--PR-374151?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=gb-eli&label=Visualizações%20do%20perfil&color=0A66C2&style=flat-square" alt="Visualizações do perfil">
+<img
+src="https://komarev.com/ghpvc/?username=gb-eli&label=Visualizações&color=0A66C2&style=flat-square"
+alt="Visualizações do perfil"
+/>
 
 </div>
 
 ---
 
-## Sobre
+## Sobre mim
 
-Sou professor da **Secretaria de Estado da Educação do Paraná — SEED-PR**, atuando como **Professor PSS desde 2024**.
+Sou **Professor PSS da Secretaria de Estado da Educação do Paraná — SEED-PR desde 2024**, com trajetória profissional construída entre **educação, tecnologia, gestão e desenvolvimento de sistemas**.
 
-Minha trajetória profissional reúne áreas que fazem parte da minha formação e da minha prática: **educação, tecnologia, gestão e desenvolvimento de sistemas**.
+Sou licenciado em **Pedagogia** e graduado em **Análise e Desenvolvimento de Sistemas**, além de possuir formação de pós-graduação nas áreas de tecnologia, educação, gestão e docência.
 
-Já atuei em função de **coordenação** e atualmente concentro minha atuação na docência. No ambiente escolar, procuro aproximar tecnologia e aprendizagem por meio de atividades práticas, projetos e soluções que tenham aplicação real.
+Já tive experiência em **coordenação** e atualmente atuo como professor.
 
-Gosto de ajudar, compartilhar conhecimento e aprender com as pessoas ao meu redor. Procuro trabalhar de maneira compreensiva e flexível, entendendo que diferentes situações exigem diferentes caminhos.
+Procuro desenvolver meu trabalho com compreensão, flexibilidade e abertura ao diálogo. Gosto de ajudar as pessoas, compartilhar aquilo que aprendo e também aprender com quem está ao meu redor.
 
-Minha formação acadêmica não representa um ponto final. Continuo estudando, desenvolvendo projetos e buscando novas formas de melhorar aquilo que faço.
+> Sou um eterno aprendiz. Acredito que sempre existe algo que pode ser aprendido, revisto ou melhorado.
 
-> Conhecimento faz mais sentido quando pode ser aplicado, compartilhado e transformado em novas experiências.
+---
+
+## Perfil profissional
+
+<table>
+<tr>
+<td width="25%" align="center">
+<strong>Desde 2024</strong><br>
+Professor PSS<br>
+SEED-PR
+</td>
+
+<td width="25%" align="center">
+<strong>Atuação atual</strong><br>
+Colégio Estadual<br>
+Alberto Gomes Veiga
+</td>
+
+<td width="25%" align="center">
+<strong>Formação</strong><br>
+Pedagogia<br>
+ADS
+</td>
+
+<td width="25%" align="center">
+<strong>Experiência</strong><br>
+Docência<br>
+Coordenação
+</td>
+</tr>
+</table>
 
 ---
 
 ## Trajetória profissional
 
 <table>
-  <tr>
-    <td width="135"><strong>Atual</strong></td>
-    <td>
-      <strong>Colégio Estadual Alberto Gomes Veiga</strong><br>
-      Professor — SEED-PR
-    </td>
-  </tr>
 
-  <tr>
-    <td><strong>Anterior</strong></td>
-    <td>
-      <strong>Colégio Estadual José Bonifácio</strong><br>
-      Professor — SEED-PR
-    </td>
-  </tr>
+<tr>
+<td width="150">
+<strong>Atual</strong>
+</td>
 
-  <tr>
-    <td><strong>Anterior</strong></td>
-    <td>
-      <strong>Colégio Estadual Dídio Augusto de Camargo Viana</strong><br>
-      Professor — SEED-PR
-    </td>
-  </tr>
+<td>
+<strong>Colégio Estadual Alberto Gomes Veiga</strong><br>
+Professor — Secretaria de Estado da Educação do Paraná
+</td>
+</tr>
 
-  <tr>
-    <td><strong>Desde 2024</strong></td>
-    <td>
-      <strong>Secretaria de Estado da Educação do Paraná</strong><br>
-      Professor contratado por Processo Seletivo Simplificado — PSS
-    </td>
-  </tr>
+<tr>
+<td>
+<strong>Anterior</strong>
+</td>
 
-  <tr>
-    <td><strong>Experiência</strong></td>
-    <td>
-      <strong>Coordenação</strong><br>
-      Experiência em organização, acompanhamento, gestão e trabalho em equipe
-    </td>
-  </tr>
+<td>
+<strong>Colégio Estadual José Bonifácio</strong><br>
+Professor — Secretaria de Estado da Educação do Paraná
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Anterior</strong>
+</td>
+
+<td>
+<strong>Colégio Estadual Dídio Augusto de Camargo Viana</strong><br>
+Professor — Secretaria de Estado da Educação do Paraná
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Experiência</strong>
+</td>
+
+<td>
+<strong>Coordenação</strong><br>
+Atuação com organização, acompanhamento, gestão e trabalho em equipe
+</td>
+</tr>
+
 </table>
 
 ---
@@ -94,160 +137,123 @@ Minha formação acadêmica não representa um ponto final. Continuo estudando, 
 ## Formação acadêmica
 
 <table>
-  <tr>
-    <td width="36%">
-      <strong>Análise e Desenvolvimento de Sistemas</strong>
-    </td>
-    <td>
-      Graduação concluída
-    </td>
-  </tr>
 
-  <tr>
-    <td>
-      <strong>Pedagogia</strong>
-    </td>
-    <td>
-      Licenciatura
-    </td>
-  </tr>
+<tr>
+<td width="42%">
+<strong>Análise e Desenvolvimento de Sistemas</strong>
+</td>
 
-  <tr>
-    <td>
-      <strong>Gestão de Tecnologia da Informação</strong>
-    </td>
-    <td>
-      Pós-graduação
-    </td>
-  </tr>
+<td>
+Graduação
+</td>
+</tr>
 
-  <tr>
-    <td>
-      <strong>Tecnologias Digitais e Inovação na Educação</strong>
-    </td>
-    <td>
-      Pós-graduação
-    </td>
-  </tr>
+<tr>
+<td>
+<strong>Pedagogia</strong>
+</td>
 
-  <tr>
-    <td>
-      <strong>Administração Aplicada e Gestão Empresarial</strong>
-    </td>
-    <td>
-      Pós-graduação
-    </td>
-  </tr>
+<td>
+Licenciatura
+</td>
+</tr>
 
-  <tr>
-    <td>
-      <strong>Docência em Sistemas de Informação</strong>
-    </td>
-    <td>
-      Pós-graduação
-    </td>
-  </tr>
+<tr>
+<td>
+<strong>Gestão de Tecnologia da Informação</strong>
+</td>
+
+<td>
+Pós-graduação
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Tecnologias Digitais e Inovação na Educação</strong>
+</td>
+
+<td>
+Pós-graduação
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Administração Aplicada e Gestão Empresarial</strong>
+</td>
+
+<td>
+Pós-graduação
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Docência em Sistemas de Informação</strong>
+</td>
+
+<td>
+Pós-graduação
+</td>
+</tr>
+
 </table>
 
 ---
 
 ## Tecnologia e desenvolvimento
 
-Minha atuação com tecnologia está relacionada principalmente ao desenvolvimento de soluções, programação, ferramentas educacionais e projetos aplicados ao ambiente escolar.
+Minha relação com tecnologia vai além do estudo de linguagens de programação. Tenho interesse em **desenvolver soluções que possam ser utilizadas de forma prática**, especialmente em projetos relacionados à educação, organização de processos, desenvolvimento web e sistemas.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Tecnologias">
+<br>
+
+<img
+src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"
+alt="Tecnologias e ferramentas"
+/>
+
+<br><br>
+
+`HTML` · `CSS` · `JavaScript` · `Python` · `Git` · `GitHub`
 
 </div>
 
-<br>
+---
+
+## Projeto em destaque
 
 <div align="center">
 
-`HTML` · `CSS` · `JavaScript` · `Python` · `Git` · `GitHub` · `Desenvolvimento Web` · `Sistemas`
+<a href="https://github.com/gb-eli/LAB-DS-3D-VR">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gb-eli&repo=LAB-DS-3D-VR&theme=github_dark&hide_border=true"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=gb-eli&repo=LAB-DS-3D-VR&theme=default&hide_border=true"
+    >
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=gb-eli&repo=LAB-DS-3D-VR&hide_border=true"
+      alt="LAB DS 3D VR"
+    >
+  </picture>
+</a>
+
+<br>
+
+<a href="https://github.com/gb-eli?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=flat-square&logo=github&logoColor=white"
+    alt="Ver repositórios"
+  >
+</a>
 
 </div>
-
----
-
-## O que conecta meu trabalho
-
-<table>
-<tr>
-<td width="25%" align="center">
-<strong>Educação</strong><br><br>
-Docência, aprendizagem e desenvolvimento de pessoas.
-</td>
-
-<td width="25%" align="center">
-<strong>Tecnologia</strong><br><br>
-Uso de recursos digitais com propósito e aplicação prática.
-</td>
-
-<td width="25%" align="center">
-<strong>Desenvolvimento</strong><br><br>
-Criação de sistemas, ferramentas e experiências digitais.
-</td>
-
-<td width="25%" align="center">
-<strong>Gestão</strong><br><br>
-Organização, planejamento, coordenação e trabalho coletivo.
-</td>
-</tr>
-</table>
-
----
-
-## Desenvolvimento de projetos
-
-Não vejo programação apenas como escrita de código.
-
-Tenho interesse principalmente em projetos nos quais tecnologia possa resolver problemas reais, melhorar processos ou criar novas possibilidades dentro e fora do ambiente educacional.
-
-Entre os temas presentes no meu trabalho e nos meus estudos estão:
-
-* desenvolvimento de sistemas;
-* aplicações web;
-* automação de processos;
-* ferramentas educacionais;
-* interfaces e experiência do usuário;
-* gestão de dados;
-* inovação aplicada à educação;
-* integração entre tecnologia e prática pedagógica.
-
----
-
-<details>
-<summary><strong>Minha forma de trabalhar</strong></summary>
-
-<br>
-
-Procuro desenvolver meu trabalho considerando alguns princípios simples:
-
-**Compreensão**
-
-Nem todas as pessoas aprendem ou resolvem problemas da mesma forma.
-
-**Flexibilidade**
-
-Quando um caminho não funciona, procuro outro.
-
-**Prática**
-
-Tecnologia e programação fazem mais sentido quando são aplicadas a situações concretas.
-
-**Colaboração**
-
-Ensinar, desenvolver e administrar são atividades que melhoram quando existe troca de conhecimento.
-
-**Evolução**
-
-Sempre existe alguma coisa que pode ser revisada, melhorada ou aprendida.
-
-<br>
-
-</details>
 
 ---
 
@@ -256,114 +262,173 @@ Sempre existe alguma coisa que pode ser revisada, melhorada ou aprendida.
 <div align="center">
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gb-eli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gb-eli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&locale=pt-br"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gb-eli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://github-readme-stats.vercel.app/api?username=gb-eli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=pt-br"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://github-readme-stats.vercel.app/api?username=gb-eli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&locale=pt-br"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=gb-eli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
+alt="Estatísticas do GitHub"
+/>
+
 </picture>
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-eli&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-eli&layout=compact&langs_count=8&hide_border=true&theme=default&locale=pt-br"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-eli&layout=compact&langs_count=8&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
-</picture>
 
-</div>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-eli&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=pt-br"
+/>
 
-<br>
-
-<div align="center">
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-eli&layout=compact&langs_count=8&hide_border=true&theme=default&locale=pt-br"
+/>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=gb-eli&theme=transparent&hide_border=true&locale=pt_BR"
-alt="Sequência de contribuições"
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-eli&layout=compact&langs_count=8&hide_border=true&locale=pt-br"
+alt="Linguagens utilizadas nos repositórios"
 />
+
+</picture>
+
+<br><br>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://streak-stats.demolab.com?user=gb-eli&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://streak-stats.demolab.com?user=gb-eli&theme=default&hide_border=true&locale=pt_BR"
+/>
+
+<img
+src="https://streak-stats.demolab.com?user=gb-eli&hide_border=true&locale=pt_BR"
+alt="Contribuições no GitHub"
+/>
+
+</picture>
 
 </div>
 
 ---
 
-## Atividade
+## Atividade recente
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=gb-eli&theme=github-compact&hide_border=true&area=true"
-width="100%"
-alt="Gráfico de atividade no GitHub"
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://github-readme-activity-graph.vercel.app/graph?username=gb-eli&theme=github-compact&hide_border=true&area=true"
 />
 
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://github-readme-activity-graph.vercel.app/graph?username=gb-eli&theme=minimal&hide_border=true&area=true"
+/>
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gb-eli&theme=minimal&hide_border=true&area=true"
+alt="Atividade recente no GitHub"
+/>
+
+</picture>
+
 </div>
+
+---
+
+<details>
+
+<summary><strong>Um pouco sobre como penso meu trabalho</strong></summary>
+
+<br>
+
+Acredito que trabalhar com educação exige entender que cada pessoa aprende de uma maneira diferente.
+
+Nem sempre existe apenas uma forma correta de explicar, ensinar ou resolver um problema. Por isso, procuro ser compreensivo e flexível, buscando alternativas quando algo não funciona da primeira vez.
+
+Na tecnologia sigo uma lógica semelhante: testar, analisar, corrigir e melhorar fazem parte do processo.
+
+Gosto de ajudar pessoas e compartilhar conhecimento, mas também valorizo muito aquilo que posso aprender com elas.
+
+Não acredito em formação concluída no sentido de parar de aprender. Continuo estudando, experimentando tecnologias, desenvolvendo projetos e revendo minhas próprias práticas.
+
+<br>
+
+</details>
 
 ---
 
 ## Contato
 
-<table>
-<tr>
-<td width="25%"><strong>LinkedIn</strong></td>
-<td>
+<div align="center">
+
 <a href="https://www.linkedin.com/in/gabriel-elienai-072811165">
-linkedin.com/in/gabriel-elienai-072811165
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Gabriel%20Elienai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
-</td>
-</tr>
 
-<tr>
-<td><strong>Instagram</strong></td>
-<td>
-<a href="https://instagram.com/gb_eli">@gb_eli</a>
-</td>
-</tr>
-
-<tr>
-<td><strong>Instagram profissional</strong></td>
-<td>
-<a href="https://instagram.com/prof.gb_eli">@prof.gb_eli</a>
-</td>
-</tr>
-
-<tr>
-<td><strong>E-mail institucional</strong></td>
-<td>
 <a href="mailto:gabriel.elienai.alves@escola.pr.gov.br">
-gabriel.elienai.alves@escola.pr.gov.br
+  <img
+    src="https://img.shields.io/badge/E--mail-Contato-374151?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="E-mail"
+  >
 </a>
-</td>
-</tr>
-</table>
+
+<a href="https://instagram.com/gb_eli">
+  <img
+    src="https://img.shields.io/badge/@gb__eli-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  >
+</a>
+
+<a href="https://instagram.com/prof.gb_eli">
+  <img
+    src="https://img.shields.io/badge/@prof.gb__eli-833AB4?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram profissional"
+  >
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Gabriel Elienai Alves
+<strong>Gabriel Elienai Alves</strong>
 
+<br>
+
+<sub>
 Professor · Pedagogo · Analista e Desenvolvedor de Sistemas
-
-<sub>Educação · Tecnologia · Desenvolvimento · Gestão</sub>
+</sub>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/gb-eli?label=Seguidores&style=flat-square&logo=github" alt="Seguidores no GitHub">
+<a href="https://github.com/gb-eli">
+  <img
+    src="https://img.shields.io/github/followers/gb-eli?label=Seguidores&style=flat-square&logo=github"
+    alt="Seguidores no GitHub"
+  >
+</a>
 
 </div>
